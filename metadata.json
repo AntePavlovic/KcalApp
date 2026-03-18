@@ -1,0 +1,5 @@
+{
+  "name": "KcalApp",
+  "description": "A simple, offline-first calorie calculator with daily history, limits, and charts.",
+  "requestFramePermissions": []
+}
